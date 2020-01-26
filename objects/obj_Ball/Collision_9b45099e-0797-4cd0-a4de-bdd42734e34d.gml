@@ -12,11 +12,6 @@ with(obj_Ball) speed += -.13;
 /// @DnDArgument : "code" "move_bounce_solid(true);"
 move_bounce_solid(true);
 
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 2FC1C9EA
-
-
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 25FE151C
@@ -35,3 +30,7 @@ if(l25FE151C_0)
 	/// @DnDArgument : "speed" "3"
 	with(obj_Ball) speed = 3;
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 2FC1C9EA

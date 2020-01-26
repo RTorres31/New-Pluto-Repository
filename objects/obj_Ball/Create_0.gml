@@ -16,7 +16,7 @@ with(obj_Ball) speed = 0;
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 63782623
-/// @DnDArgument : "soundid" "snd_tryagainbckgrnd"
+/// @DnDArgument : "soundid" "snd_titlescreen"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "02958db6-4959-4f93-8f8d-dad65ddbe2a1"
-audio_play_sound(snd_tryagainbckgrnd, 0, 1);
+/// @DnDSaveInfo : "soundid" "1279bbf3-af88-4d0f-8c85-799f74799a89"
+audio_play_sound(snd_titlescreen, 0, 1);

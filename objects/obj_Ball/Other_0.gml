@@ -64,9 +64,9 @@ if(l797B1CAD_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 65F4C68A
 	/// @DnDParent : 797B1CAD
-	/// @DnDArgument : "room" "room2"
+	/// @DnDArgument : "room" "DeathRoom"
 	/// @DnDSaveInfo : "room" "8d45f20e-8e64-41ea-b45a-ac7d3bd91523"
-	room_goto(room2);
+	room_goto(DeathRoom);
 
 	/// @DnDAction : YoYo Games.Audio.Play_Audio
 	/// @DnDVersion : 1
