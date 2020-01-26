@@ -63,9 +63,9 @@
             }
         },
         {
-            "Key": "110d47ba-7434-4cd0-8ff9-cc3d861705fc",
+            "Key": "187bee89-03e4-4e54-9eac-1fd2ebb6b3fc",
             "Value": {
-                "id": "041d476a-ee71-4b41-80e9-c1a215a29628",
+                "id": "a73606d5-fb56-4059-a0a5-55dce38470f1",
                 "resourcePath": "sounds\\snd_brickbreak\\snd_brickbreak.yy",
                 "resourceType": "GMSound"
             }
@@ -115,6 +115,14 @@
             "Value": {
                 "id": "9f9c860f-a4b6-4541-9dc6-c023acf8821b",
                 "resourcePath": "objects\\obj_Block1\\obj_Block1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2d3dd5f8-a929-4858-be63-25cb93bb7307",
+            "Value": {
+                "id": "b845c6c9-8fec-47ea-8d00-caac298a7976",
+                "resourcePath": "objects\\objLGAsteroid\\objLGAsteroid.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -199,11 +207,27 @@
             }
         },
         {
+            "Key": "4c61e2d2-9430-4300-9dbf-944cc3d0cfe7",
+            "Value": {
+                "id": "2b5a49bf-79ad-48e3-94da-c88ca1f69761",
+                "resourcePath": "sounds\\snd_RockBreak\\snd_RockBreak.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4ddf07b4-a7a2-4117-97c3-178ecea1664d",
             "Value": {
                 "id": "1b0d0c7a-5c27-4f9f-ad22-57069771388e",
                 "resourcePath": "views\\4ddf07b4-a7a2-4117-97c3-178ecea1664d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f00abe2-d069-41ab-bf58-ac74a2c9634a",
+            "Value": {
+                "id": "fed6f95c-b401-4831-9f2f-7465ad852b93",
+                "resourcePath": "sprites\\spr_LGAsteroid\\spr_LGAsteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "33aed2fc-8c2a-49d2-a849-5632cc952ec5",
                 "resourcePath": "views\\5687903f-228a-4d69-a6e3-7d432f397657.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58ce5547-7c0d-4199-8676-9429a0137bcd",
+            "Value": {
+                "id": "5c29eac3-3c8e-4ea2-9e41-11ae70d14d7d",
+                "resourcePath": "sprites\\spr_MedAsteroid\\spr_MedAsteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +300,14 @@
                 "id": "a320a7a4-e058-4ff7-891b-9fe18740aea9",
                 "resourcePath": "views\\644b0e36-847e-4a29-b6de-4feb9b62886e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "660e6720-c2fe-45a9-a863-9b792eae7e39",
+            "Value": {
+                "id": "e9ba8a02-4d8e-43c7-89a7-a007ff2b8f0a",
+                "resourcePath": "sprites\\spr_smAsteroid\\spr_smAsteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +375,14 @@
             }
         },
         {
+            "Key": "a074010a-b01b-43b9-9775-97a60f59e4bb",
+            "Value": {
+                "id": "caf284c8-07b4-478d-82b2-9e6b1a536595",
+                "resourcePath": "objects\\obj_smAsteroid\\obj_smAsteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a4b01b74-66f9-44a2-9a93-d5ad2adf5993",
             "Value": {
                 "id": "36db8eb8-0645-4e03-93b3-774b7fda30ef",
@@ -348,6 +396,14 @@
                 "id": "ebb1e744-f8a4-4519-b04c-9f6a5814394c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "af7f0c03-e14a-496e-8c92-859430890632",
+            "Value": {
+                "id": "1b28108e-5eb9-46cf-91ee-cd408e6af7e7",
+                "resourcePath": "objects\\obj_MedAsteroid\\obj_MedAsteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
