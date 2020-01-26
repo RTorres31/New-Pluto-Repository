@@ -5,7 +5,7 @@
     "name": "obj_smAsteroid",
     "eventList": [
         {
-            "id": "7d101065-72b4-47ce-bdb1-8877081bda32",
+            "id": "77d3c37f-f7f5-4c02-a819-030de35036b4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
