@@ -29,11 +29,11 @@ if(l0320157C_0)
 /// @DnDVersion : 1
 /// @DnDHash : 1916D0D3
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "score" "50"
+/// @DnDArgument : "score" "20"
 /// @DnDArgument : "score_relative" "1"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-__dnd_score += real(50);
+__dnd_score += real(20);
 }
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio

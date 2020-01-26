@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "105e5f47-09ba-427f-af25-2c663dee4220",
+            "Value": {
+                "id": "6954e464-5086-4db4-8cab-9d98a08eff7f",
+                "resourcePath": "sounds\\snd_lvlProgress\\snd_lvlProgress.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1279bbf3-af88-4d0f-8c85-799f74799a89",
             "Value": {
                 "id": "ebf733f5-7b8a-48db-a965-045cca17e650",
@@ -250,7 +258,7 @@
             "Key": "50a490fd-9e46-478a-80cf-9a4d52c09c8b",
             "Value": {
                 "id": "a425bea2-b23a-419e-aa9a-db0ff483168e",
-                "resourcePath": "sounds\\snd_lvl2\\snd_lvl2.yy",
+                "resourcePath": "sounds\\snd_lvl4\\snd_lvl4.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -282,7 +290,7 @@
             "Key": "5b29a7ec-2efb-4257-b344-7a6d09dacb8f",
             "Value": {
                 "id": "b28ada08-b7f1-48cc-b269-d8999a5e0fda",
-                "resourcePath": "sounds\\snd_lvl5\\snd_lvl5.yy",
+                "resourcePath": "sounds\\snd_lvl2\\snd_lvl2.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -426,7 +434,7 @@
             "Key": "b0fce151-1529-4b1a-b114-7f4336d04879",
             "Value": {
                 "id": "bfb40e58-a426-4e6e-8657-24137a4ef229",
-                "resourcePath": "sounds\\snd_lvl4\\snd_lvl4.yy",
+                "resourcePath": "sounds\\snd_lvl3\\snd_lvl3.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -458,7 +466,7 @@
             "Key": "c3ec2f62-416b-4fd5-bec0-f55862ae6a97",
             "Value": {
                 "id": "776f33ce-a943-482e-a4ee-0e08f32cea81",
-                "resourcePath": "sounds\\snd_lvl3\\snd_lvl3.yy",
+                "resourcePath": "sounds\\snd_lvl5\\snd_lvl5.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -500,6 +508,14 @@
                 "id": "82140788-bc71-48cf-b1d2-bc88fc691243",
                 "resourcePath": "rooms\\Level3\\Level3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d39d6fb8-0cb9-4d08-869a-ba34f70bdb2d",
+            "Value": {
+                "id": "620c0371-3ea6-440e-a969-f2618d95425b",
+                "resourcePath": "sounds\\snd_paddlebounce\\snd_paddlebounce.yy",
+                "resourceType": "GMSound"
             }
         },
         {

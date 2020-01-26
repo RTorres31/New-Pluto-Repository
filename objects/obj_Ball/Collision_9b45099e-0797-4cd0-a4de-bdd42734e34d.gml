@@ -34,3 +34,6 @@ if(l25FE151C_0)
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 2FC1C9EA
+/// @DnDArgument : "soundid" "snd_paddlebounce"
+/// @DnDSaveInfo : "soundid" "d39d6fb8-0cb9-4d08-869a-ba34f70bdb2d"
+audio_play_sound(snd_paddlebounce, 0, 0);

@@ -1,5 +1,5 @@
 {
-    "id": "5b29a7ec-2efb-4257-b344-7a6d09dacb8f",
+    "id": "c3ec2f62-416b-4fd5-bec0-f55862ae6a97",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_lvl5",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 1
+    "volume": 0.5
 }
