@@ -6,9 +6,9 @@ audio_stop_all();
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 2312D174
-/// @DnDArgument : "room" "room1"
+/// @DnDArgument : "room" "Level2"
 /// @DnDSaveInfo : "room" "23d068a6-527c-4d34-99e6-3bf52b422ac8"
-room_goto(room1);
+room_goto(Level2);
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Start
 /// @DnDVersion : 1
