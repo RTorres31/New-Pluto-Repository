@@ -83,4 +83,7 @@ y = ystart;
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 1E3847F1
+/// @DnDArgument : "soundid" "snd_lvl1"
 /// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "1d10dc57-0923-47bd-8829-e24629b50c6a"
+audio_play_sound(snd_lvl1, 0, 1);
