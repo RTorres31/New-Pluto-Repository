@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1f510415-6c4d-4f48-9223-da40156d6559",
+            "Value": {
+                "id": "3440b8e2-4069-4192-ace7-6e661e510895",
+                "resourcePath": "sprites\\spr_Brick3\\spr_Brick3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fec82c1-54d0-4a16-9526-67d2f4c6dd54",
             "Value": {
                 "id": "365ee7cf-e587-4230-8e20-abaca2b1a3c8",
@@ -268,6 +276,14 @@
                 "id": "dd155762-29c5-49bd-85e3-05dbe14a7830",
                 "resourcePath": "objects\\obj_QuitGame\\obj_QuitGame.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "54843b74-ac31-48e7-b2ee-65590ebafad3",
+            "Value": {
+                "id": "4590e6c5-d5e5-4b39-8458-a228e617da16",
+                "resourcePath": "sprites\\spr_Brick4\\spr_Brick4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "ad7c9729-533a-4118-81a2-eeb7c13c8320",
+            "Value": {
+                "id": "9f0c3894-936d-4ca5-af68-143197e2233d",
+                "resourcePath": "objects\\obj_Block5\\obj_Block5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af7f0c03-e14a-496e-8c92-859430890632",
             "Value": {
                 "id": "1b28108e-5eb9-46cf-91ee-cd408e6af7e7",
@@ -460,6 +484,14 @@
                 "id": "49f8237e-852a-42de-88ac-a70ed506bc4f",
                 "resourcePath": "objects\\obj_StartButton\\obj_StartButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1e9304e-4ca4-4f4e-9f3f-4276327c81d8",
+            "Value": {
+                "id": "ea2214bd-0be5-4aa0-9452-43316fa0d16a",
+                "resourcePath": "sprites\\spr_Brick5\\spr_Brick5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -580,6 +612,14 @@
                 "id": "3af062c8-2b7c-477b-bf6f-1497190c3441",
                 "resourcePath": "objects\\obj_Ceiling\\obj_Ceiling.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f192c767-e95b-4362-ac12-db8267c2d1c0",
+            "Value": {
+                "id": "0690fb1f-4d0a-492a-ad66-bfe889d3f6ad",
+                "resourcePath": "sprites\\spr_Brick2\\spr_Brick2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

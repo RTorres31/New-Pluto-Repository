@@ -2,9 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 62567C0B
 /// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
-/// @DnDArgument : "speed" ".3"
+/// @DnDArgument : "speed" ".29"
 /// @DnDArgument : "speed_relative" "1"
-with(obj_Ball) speed += .3;
+with(obj_Ball) speed += .29;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
