@@ -82,7 +82,7 @@
             "Key": "17aaa420-37a1-4507-843a-2f352cfdde81",
             "Value": {
                 "id": "d8b24556-69d2-47ee-b594-73f8bb7ff51c",
-                "resourcePath": "sprites\\bg_Space\\bg_Space.yy",
+                "resourcePath": "sprites\\bg_Space2\\bg_Space2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -188,6 +188,22 @@
                 "id": "148e442e-e2d6-42e9-8ba4-bb19424ad844",
                 "resourcePath": "views\\2d926745-0a71-47ab-baf0-88b9d9c966b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2e0eafa7-7c30-432e-8a67-6f74382fc6b7",
+            "Value": {
+                "id": "d98547df-e770-4699-bf9a-069b06e71234",
+                "resourcePath": "sprites\\bg_Earth1\\bg_Earth1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "30466144-9dae-4dea-b3c4-fb6b3b02111e",
+            "Value": {
+                "id": "3725dfab-959c-435b-9634-1c397e362362",
+                "resourcePath": "sprites\\bg_Alien5\\bg_Alien5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "9bcfc3a8-90b7-46fb-9598-8031fe4ea8e4",
+            "Value": {
+                "id": "c6cb2482-4f7a-42be-83e0-4dbfc8a853f3",
+                "resourcePath": "sprites\\bg_AsteroidBelt3\\bg_AsteroidBelt3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a074010a-b01b-43b9-9775-97a60f59e4bb",
             "Value": {
                 "id": "caf284c8-07b4-478d-82b2-9e6b1a536595",
@@ -555,6 +579,14 @@
             "Value": {
                 "id": "c5fa9658-dd43-4525-9838-6aad2d0aa344",
                 "resourcePath": "sprites\\spr_Wall\\spr_Wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cb7faacd-ac76-409f-a197-f0d42c4b988d",
+            "Value": {
+                "id": "76946434-cb57-408a-bd7d-c24f4a10f756",
+                "resourcePath": "sprites\\bg_Alien4\\bg_Alien4.yy",
                 "resourceType": "GMSprite"
             }
         },
