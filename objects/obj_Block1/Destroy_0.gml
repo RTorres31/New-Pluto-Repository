@@ -29,6 +29,18 @@ if(l2CA8BFAF_0)
 	y = ystart;
 	}
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 71C392F6
+	/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+	/// @DnDParent : 2CA8BFAF
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "go"
+	with(obj_Ball) {
+	go = false;
+	
+	}
+
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 6849A366
@@ -106,6 +118,18 @@ if(l77DF865A_0)
 	with(obj_Paddle) {
 	x = xstart;
 	y = ystart;
+	}
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 6DD22A3E
+	/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+	/// @DnDParent : 77DF865A
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "go"
+	with(obj_Ball) {
+	go = false;
+	
 	}
 
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
@@ -187,6 +211,18 @@ if(l64D01455_0)
 	y = ystart;
 	}
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2D91D00B
+	/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+	/// @DnDParent : 64D01455
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "go"
+	with(obj_Ball) {
+	go = false;
+	
+	}
+
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 110420B1
@@ -266,6 +302,18 @@ if(l517F869E_0)
 	y = ystart;
 	}
 
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 59D01019
+	/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+	/// @DnDParent : 517F869E
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "go"
+	with(obj_Ball) {
+	go = false;
+	
+	}
+
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 4FD63215
@@ -343,6 +391,18 @@ if(l4BDC7F39_0)
 	with(obj_Paddle) {
 	x = xstart;
 	y = ystart;
+	}
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 70484A70
+	/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+	/// @DnDParent : 4BDC7F39
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "go"
+	with(obj_Ball) {
+	go = false;
+	
 	}
 
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Random

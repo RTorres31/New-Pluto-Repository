@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 563D9FC8
+/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "go"
+with(obj_Ball) {
+go = true;
+
+}
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 4A79291D

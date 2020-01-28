@@ -4,20 +4,11 @@
     "mvc": "1.0",
     "name": "obj_smAsteroid",
     "eventList": [
-        {
-            "id": "e3997ebb-b05b-432c-8e7f-95acae7eb25a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "a074010a-b01b-43b9-9775-97a60f59e4bb"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "2a662e5f-ebbc-4433-b132-a63975a1c104",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

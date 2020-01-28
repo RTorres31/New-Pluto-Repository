@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5BD95789
+/// @DnDApplyTo : be233cb9-fb48-4e5d-9a9a-5aebaad9788b
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "go"
+with(obj_Ball) {
+go = false;
+
+}
+
 /// @DnDAction : YoYo Games.Movement.Jump_To_Start
 /// @DnDVersion : 1
 /// @DnDHash : 272F5EEB
