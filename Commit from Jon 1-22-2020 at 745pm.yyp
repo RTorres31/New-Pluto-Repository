@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1d5e02b4-c2fb-4e73-abcb-217d1b4cb6c8",
+            "Value": {
+                "id": "b8272ba5-f45f-4f4a-85ff-fabbeb5dac09",
+                "resourcePath": "sounds\\snd_AlienDeath\\snd_AlienDeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f510415-6c4d-4f48-9223-da40156d6559",
             "Value": {
                 "id": "3440b8e2-4069-4192-ace7-6e661e510895",

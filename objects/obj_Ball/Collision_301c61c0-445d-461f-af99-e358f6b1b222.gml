@@ -39,7 +39,9 @@ __dnd_score += real(10);
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 0DACAAE3
-
+/// @DnDArgument : "soundid" "snd_AlienDeath"
+/// @DnDSaveInfo : "soundid" "1d5e02b4-c2fb-4e73-abcb-217d1b4cb6c8"
+audio_play_sound(snd_AlienDeath, 0, 0);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
