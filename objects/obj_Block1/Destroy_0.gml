@@ -2,10 +2,10 @@
 /// @DnDVersion : 1
 /// @DnDHash : 2CA8BFAF
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "100"
+/// @DnDArgument : "value" "90"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l2CA8BFAF_0 = __dnd_score == 100;
+var l2CA8BFAF_0 = __dnd_score == 90;
 }
 if(l2CA8BFAF_0)
 {
@@ -81,10 +81,10 @@ if(l2CA8BFAF_0)
 /// @DnDVersion : 1
 /// @DnDHash : 77DF865A
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "200"
+/// @DnDArgument : "value" "549"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l77DF865A_0 = __dnd_score == 200;
+var l77DF865A_0 = __dnd_score == 549;
 }
 if(l77DF865A_0)
 {
@@ -160,10 +160,10 @@ if(l77DF865A_0)
 /// @DnDVersion : 1
 /// @DnDHash : 64D01455
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "300"
+/// @DnDArgument : "value" "819"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l64D01455_0 = __dnd_score == 300;
+var l64D01455_0 = __dnd_score == 819;
 }
 if(l64D01455_0)
 {
@@ -239,10 +239,10 @@ if(l64D01455_0)
 /// @DnDVersion : 1
 /// @DnDHash : 517F869E
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "400"
+/// @DnDArgument : "value" "1787"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l517F869E_0 = __dnd_score == 400;
+var l517F869E_0 = __dnd_score == 1787;
 }
 if(l517F869E_0)
 {
@@ -318,10 +318,10 @@ if(l517F869E_0)
 /// @DnDVersion : 1
 /// @DnDHash : 4BDC7F39
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "500"
+/// @DnDArgument : "value" "3189"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l4BDC7F39_0 = __dnd_score == 500;
+var l4BDC7F39_0 = __dnd_score == 3189;
 }
 if(l4BDC7F39_0)
 {
