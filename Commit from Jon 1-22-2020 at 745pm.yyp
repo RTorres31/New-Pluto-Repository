@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "17aaa420-37a1-4507-843a-2f352cfdde81",
+            "Value": {
+                "id": "d8b24556-69d2-47ee-b594-73f8bb7ff51c",
+                "resourcePath": "sprites\\bg_Space\\bg_Space.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "187bee89-03e4-4e54-9eac-1fd2ebb6b3fc",
             "Value": {
                 "id": "a73606d5-fb56-4059-a0a5-55dce38470f1",
