@@ -318,10 +318,10 @@ if(l517F869E_0)
 /// @DnDVersion : 1
 /// @DnDHash : 4BDC7F39
 /// @DnDApplyTo : ba8a3165-4bac-4782-8503-8073cf5a5cd6
-/// @DnDArgument : "value" "3189"
+/// @DnDArgument : "value" "3179"
 with(obj_Paddle) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-var l4BDC7F39_0 = __dnd_score == 3189;
+var l4BDC7F39_0 = __dnd_score == 3179;
 }
 if(l4BDC7F39_0)
 {

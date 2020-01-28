@@ -5,7 +5,7 @@
     "name": "obj_Alien1",
     "eventList": [
         {
-            "id": "1e086d87-e133-41ec-9e6d-a5c7a838b30a",
+            "id": "0be5ef53-8185-433d-8549-a10cb5b82511",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "eaf02a7f-f937-4c09-aaa7-e3b8ca158413",
     "visible": true
 }
